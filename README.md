@@ -60,10 +60,10 @@ The sales data used in this project is stored in the /data directory. It consist
 
 The script performs various analyses and visualizations, including:
 
-Monthly sales analysis
-City-based sales analysis
-City-based total sales analysis
-Hourly sales analysis
-Hourly total sales analysis
+1. Monthly sales analysis
+2. City-based sales analysis
+3. City-based total sales analysis
+4. Hourly sales analysis
+5. Hourly total sales analysis
 
 The results are displayed using matplotlib and seaborn.
