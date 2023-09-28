@@ -45,7 +45,6 @@ Before running the script, ensure you have the following prerequisites installed
 
 To analyze sales data, run the sales_data_analysis.ipynb Jupyter Notebook. This notebook guides you through the analysis step by step.
 
-    ```
      jupyter notebook sales_data_analysis.ipynb
 
 ***********************************************************
