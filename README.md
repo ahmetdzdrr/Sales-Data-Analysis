@@ -11,8 +11,6 @@ This repository contains a Python script for analyzing and visualizing sales dat
 3. [Usage](#usage)
 4. [Data](#data)
 5. [Analysis and Visualization](#analysis-and-visualization)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -27,6 +25,8 @@ Before running the script, ensure you have the following prerequisites installed
 - Python 3.x
 - Jupyter Notebook (optional, for interactive analysis)
 
+***********************************************************
+
 ### Installation
 
 1. Clone the repository:
@@ -39,6 +39,8 @@ Before running the script, ensure you have the following prerequisites installed
     ```bash
     pip install -r requirements.txt
 
+***********************************************************
+
 ### Usage
 
 To analyze sales data, run the sales_data_analysis.ipynb Jupyter Notebook. This notebook guides you through the analysis step by step.
@@ -46,9 +48,13 @@ To analyze sales data, run the sales_data_analysis.ipynb Jupyter Notebook. This 
     ```
      jupyter notebook sales_data_analysis.ipynb
 
+***********************************************************
+
 ### Data
 
 The sales data used in this project is stored in the /data directory. It consists of CSV files containing order details.
+
+***********************************************************
 
 ### Analysis and Visualization
 
