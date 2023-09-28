@@ -32,7 +32,7 @@ Before running the script, ensure you have the following prerequisites installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sales-data-analysis.git
+   git clone https://github.com/ahmetdzdrr/sales-data-analysis.git
 
 2. Install the required Python libraries:
    
